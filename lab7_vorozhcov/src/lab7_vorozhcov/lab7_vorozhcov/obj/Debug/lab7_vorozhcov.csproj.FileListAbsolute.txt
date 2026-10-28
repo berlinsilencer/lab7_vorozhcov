@@ -1,0 +1,7 @@
+C:\Users\1\Desktop\lab7_vorozhcov\src\lab7_vorozhcov\lab7_vorozhcov\bin\Debug\lab7_vorozhcov.exe.config
+C:\Users\1\Desktop\lab7_vorozhcov\src\lab7_vorozhcov\lab7_vorozhcov\bin\Debug\lab7_vorozhcov.exe
+C:\Users\1\Desktop\lab7_vorozhcov\src\lab7_vorozhcov\lab7_vorozhcov\bin\Debug\lab7_vorozhcov.pdb
+C:\Users\1\Desktop\lab7_vorozhcov\src\lab7_vorozhcov\lab7_vorozhcov\obj\Debug\lab7_vorozhcov.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\lab7_vorozhcov\src\lab7_vorozhcov\lab7_vorozhcov\obj\Debug\lab7_vorozhcov.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\lab7_vorozhcov\src\lab7_vorozhcov\lab7_vorozhcov\obj\Debug\lab7_vorozhcov.exe
+C:\Users\1\Desktop\lab7_vorozhcov\src\lab7_vorozhcov\lab7_vorozhcov\obj\Debug\lab7_vorozhcov.pdb
